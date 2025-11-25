@@ -1,0 +1,1 @@
+This file addd for testing git merge origin/master command
