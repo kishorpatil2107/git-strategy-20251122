@@ -1,2 +1,2 @@
-This file addd for testing git merge origin/master command
-I am adding first line vis github
+THis comment is added over local master branch. after conflict
+
